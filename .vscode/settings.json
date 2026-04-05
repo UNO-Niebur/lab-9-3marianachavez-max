@@ -1,0 +1,4 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "/workspaces/lab-9-3marianachavez-max/.venv/bin/python"
+}
